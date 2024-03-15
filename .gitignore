@@ -158,3 +158,13 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+Glove/glove.6B.100d.txt
+Glove/glove.6B.100d.txtZone.Identifier
+Glove/glove.6B.200d.txt
+Glove/glove.6B.200d.txtZone.Identifier
+Glove/glove.6B.300d.txt
+Glove/glove.6B.300d.txtZone.Identifier
+Glove/glove.6B.50d.txt
+Glove/glove.6B.50d.txtZone.Identifier
+Glove/glove.840B.300d.txt
+Glove/glove.840B.300d.txtZone.Identifier
